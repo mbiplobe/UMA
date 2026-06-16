@@ -64,7 +64,9 @@ Defined API communication standards and integration architecture
 # Screenshot
 
 ![Login Page](Images/login.png)
-
+![Login Page](Images/password_recovery.png)
+![Login Page](Images/otp_confirmation.png)
+![Login Page](Images/registration.png)
 ---
 
 ## ⭐ Key Engineering Highlights
