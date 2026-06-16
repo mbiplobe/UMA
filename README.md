@@ -61,9 +61,9 @@ Coordinated integration between ASP.NET services and Oracle/SQL Server databases
 Optimized database queries and improved system performance
 Defined API communication standards and integration architecture
 
-# Architecture Diagram
+# Screenshot
 
-![Architecture](Architecture/Project_Architecture.png)
+![Login Page](Images/login.png)
 
 ---
 
